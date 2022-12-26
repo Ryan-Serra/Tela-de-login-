@@ -1,0 +1,27 @@
+a{
+    justify-content: space-between;
+}
+input{
+    border: radius 50px; 
+}
+nav{
+    background-color:black;
+    width:230px;
+    height:170px;
+    padding:15px;
+    border: 1px solid #c7bc1e;
+    color: #a79f34;
+    border-radius:5%   
+}
+h3 {
+    color: #a7b026;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+    color: #a7b026;
+    ;
+    
+}

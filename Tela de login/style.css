@@ -1,0 +1,38 @@
+
+section{
+    background-color:  #A69CAC;
+    width:300px;
+    height:300px;
+    border-radius: 5%;
+    padding: 10px 50px 10px ;
+}
+h1{
+    color: #ffe6d0;
+
+}
+.login{
+
+    padding-bottom: 24px;
+}
+.senha{
+    padding-bottom: 24px;
+}
+.nome{
+
+    padding-bottom: 24px;
+}
+button{
+    font-size:12px ;
+    width: 85%;
+    margin: 20px 0 10px;
+}
+button:hover{
+    background-color: #80808071;
+}
+a{
+color: black;
+text-decoration: none;
+}
+a:hover{
+    color: #ffe6d0;
+}
